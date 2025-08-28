@@ -44,19 +44,19 @@ This project aims to develop a machine learning model to predict machine failure
 ## Example Visualizations
 
 **Machine 1**  
-![Machine 1](images/makine_1_grafik.png)
+![Machine 1](makine_1_grafik.png)
 
 **Machine 2**  
-![Machine 2](images/makine_2_grafik.png)
+![Machine 2](makine_2_grafik.png)
 
 **Machine 3**  
-![Machine 3](images/makine_3_grafik.png)
+![Machine 3](makine_3_grafik.png)
 
 **Machine 4**  
-![Machine 4](images/makine_4_grafik.png)
+![Machine 4](makine_4_grafik.png)
 
 **Machine 5**  
-![Machine 5](images/makine_5_grafik.png)
+![Machine 5](makine_5_grafik.png)
 
 ---
 
@@ -102,26 +102,3 @@ Bu proje, çeşitli sensör verileri ve arıza sayımlarına dayalı olarak maki
 ## Model Detayları
 - Eğitilen model, encode edilmiş hedef değişkenleri tahmin eder: `failure_none`, `failure_comp1`, `failure_comp2`, ve `failure_comp4`.  
 - Hibrit model, Gradient Boosting ve Bagging Classifier kombinasyonu ile daha doğru tahminler sağlar.
-
----
-
-## Örnek Görselleştirmeler
-
-**Makine 1**  
-![Makine 1](images/makine_1_grafik.png)
-
-**Makine 2**  
-![Makine 2](images/makine_2_grafik.png)
-
-**Makine 3**  
-![Makine 3](images/makine_3_grafik.png)
-
-**Makine 4**  
-![Makine 4](images/makine_4_grafik.png)
-
-**Makine 5**  
-![Makine 5](images/makine_5_grafik.png)
-
----
-
-Oluşturan **Kerim Birtem**
